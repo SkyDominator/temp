@@ -1,0 +1,157 @@
+TARGET DIRECTORY: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\game-sample.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\hive-adiz.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\hive-talkplus.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\manager.md
+age2024-2-26_19-6-5.png" alt="" width="450" class="alignnone size-full wp-image-107115" /></a></li>
+</ul>
+
+???+ note 
+    During SDK upgrade, in the pop-up due to integrity verification failure, you can se 
+--------------------------------------------------
+ss="notranslate">VersionHash</span>.<span class="notranslate">txt</span></li>
+</ul></li>
+</ul></li>
+<li>Use a hash sign (#) to leave a comment. History or reason to ignore helps use this feature.</li> 
+--------------------------------------------------
+ss="notranslate">VersionHash</span>.<span class="notranslate">txt</span></li>
+</ul></li>
+</ul></li>
+<li>Use a hash sign (#) to leave a comment. History or reason to ignore helps use this feature.</li> 
+--------------------------------------------------
+te">framework</span></li>
+<li>The following files are unavailable to register on the ignore list. 
+
+<ul>
+<li>Hive_SDK_v4/<span class="notranslate">Plugins</span>/<span class="notranslate">Android</spa 
+--------------------------------------------------
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\cocos2d-x\android-ios.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\crossplay-launcher\crossplay-launcher-tool.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\crossplay-launcher\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\hive-adkit\adop\android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\hive-adkit\adop\cpp.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\hive-adkit\adop\ios.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\hive-adkit\adop\unity.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\hive-adkit\adx\cpp.md
+  <li>Renewed <span class="notranslate">SKAdNetwork</span> <span class="notranslate">ID</span></li>
+</ul>
+
+<br>
+
+## Version of Libraries for  <span class="notranslate">AdKit</span> v1.2.3</h2>
+
+<ul>
+    <l 
+--------------------------------------------------
+e"><span class="notranslate">Pangle</span>-<span class="notranslate">iOS</span></span> 3.9.0.4</li>
+</ul>
+
+<hr class="guide_line_1" /> 
+--------------------------------------------------
+pan class="notranslate">Fyber</span>-<span class="notranslate">Android</span></span> 7.8.4</li>
+    <li><span class="notranslate"><span class="notranslate">Pangle</span>-<span class="notranslate">iOS< 
+--------------------------------------------------
+an class="notranslate">MoPubSDK</span>-<span class="notranslate">Unity</span></span> 5.18.0
+        <ul>
+            <li><span class="notranslate"><span class="notranslate">MoPubSDK</span>-<span class 
+--------------------------------------------------
+pan class="notranslate">Fyber</span>-<span class="notranslate">Android</span></span> 7.8.4</li>
+    <li><span class="notranslate"><span class="notranslate">Pangle</span>-<span class="notranslate">iOS< 
+--------------------------------------------------
+an class="notranslate">MoPubSDK</span>-<span class="notranslate">Unity</span></span> 5.18.0
+        <ul>
+            <li><span class="notranslate"><span class="notranslate">MoPubSDK</span>-<span class 
+--------------------------------------------------
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\hive-adkit\adx\unity.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\native\android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\native\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\native\ios.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\unity\android-ios.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\unity\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\unity\tutorial.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\unity\windows.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\unreal4\android-ios.md
+ively (Android, iOS) section images have been changed and a Note has been added to the bottom.</li>
+</ul>
+
+  &nbsp; 
+--------------------------------------------------
+ev/billing/iapv4-purchase/#purchase-info"> <code>displayPrice</code> </a> has been changed.</li >
+  <li>Applying Features Selectively (Android, iOS) section images have been changed and a Note has bee 
+--------------------------------------------------
+solid transparent; border-image: linear-gradient(to right, black, white); border-image-slice: 1;">
+
+<ul>
+  <li> Description of <a href="../../../dev/billing/iapv4-purchase/#purchase-info"> <code>displ 
+--------------------------------------------------
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\unreal4\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\unreal4\windows.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\unreal5\android-ios.md
+ (Android, iOS)</a > section images have been changed and a Note has been added to the bottom.</li>
+</ul>
+
+  &nbsp; 
+--------------------------------------------------
+dev/billing/iapv4-purchase/#purchase-info"><code>displayPrice</code> </a> has been changed.</li >
+  <li>Applying Features Selectively (Android, iOS)</a > section images have been changed and a Note ha 
+--------------------------------------------------
+ solid transparent; border-image: linear-gradient(to right, black, white); border-image-slice: 1;">
+<ul>
+  <li> Description of <a href="../../../dev/billing/iapv4-purchase"> <code>displayOriginalPrice 
+--------------------------------------------------
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\unreal5\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\releases\unreal5\windows.md
+
+

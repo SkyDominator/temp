@@ -1,0 +1,792 @@
+ROOT DIRECTORY: C:/Users/khy/Documents/workspace/devsite_mk/docs/en/dev
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\hive-api.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\ad-monetization\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\ad-monetization\hive-adiz\android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\ad-monetization\hive-adiz\ios.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\ad-monetization\hive-adiz\unity.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\ad-monetization\hive-adkit\adop\android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\ad-monetization\hive-adkit\adop\cpp.md
+https://developers.google.com/admob/ump  HTTP 상태 코드: 404
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\ad-monetization\hive-adkit\adop\ios.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\ad-monetization\hive-adkit\adop\unity.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\ad-monetization\hive-adkit\adx\cpp.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\ad-monetization\hive-adkit\adx\unity.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\add-ons\game-controller.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\add-ons\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\add-ons\ingamebrowser.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\add-ons\rtt4u\config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\add-ons\rtt4u\how-to-use.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\add-ons\rtt4u\overview.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\analytics\consent-banner-exposure.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\analytics\hive-pre-work.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\analytics\hive-send-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\analytics\hive-structure.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\analytics\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\analytics\hive-sdk-prep\common.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\analytics\hive-send-log\fluentd.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\analytics\hive-send-log\hivesdk.md
+../../../operation/analytics/funnel.md  이동할 페이지가 존재하지 않습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\analytics\hive-send-log\http.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\analytics\hive-send-log\send-log-batch.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\analytics\hive-send-log\fluentd\application.md
+./../../../../operation/analytics/define-log-3.md#ftoc-heading-1  상대경로를 따라 다른 페이지로 이동했는데, 페이지에 해당 id가 없습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\analytics\hive-send-log\fluentd\fluentd-docker-guide.md
+https://developers.withhive.com/wp-content/uploads/2024/08/hive_fluentd_docker.tar  한국어 페이지가 아닙니다.
+./application  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+./logfile  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\analytics\hive-send-log\fluentd\fluentd-guide.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\analytics\hive-send-log\fluentd\logfile.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\analytics\hive-send-log\send-log-batch\how-to-send.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\analytics\hive-send-log\send-log-batch\pre-requisites.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\authv4\adult-verification.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\authv4\advanced.md
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___auth_v4.html#ga8580d30c34f9863dc20cf7937cd7236c  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___auth_v4.html#gaa4c4591ebc027abccfd9c02d389d9d3c  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___auth_v4.html#gac54a51f1dfdfa67b56b21511f7a88a7c  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___auth_v4.html#ga66ccd71b3de780889b24289aa71e5f5f  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___auth_v4.html#ga5f2e199687bef96331c31dcd30f4d767  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___platform_helper.html#ga7bc1276095455573cd690d460f38b2d1  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___platform_helper.html#gaed873a5afc2dde84202d6f50d01038d5  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___platform_helper.html#ga6b7e91fd1f139183a3746acec7fbf0c4  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___auth_v4.html#gab85a8ac01186ee4fba231ceaa96cb1d3  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___auth_v4.html#gabd83cc1dade7c61119771094a43eafdd  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___auth_v4.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___provider_google.html#gaac2f8235a9540b69d4b4f91bf3c0faa8  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___provider_google.html#ga813b6e04ae1f0e7596126bb98c6e8d35  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___provider_google.html#ga59fa63cb5f04c4261f28f7fd777af217  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___auth_v4_helper.html#ga3d8620492791dc66c8d51419d7cba419  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___auth_v4_helper.html#ga4cb73fcd5984c7d1ad60c4ecbc03b5bf  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___provider_google.html#gaac6dd0e4f37df5a07fca14a5078379b3  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___provider_google.html#gae1d707a767ab9af0e1931d6c2cbffadb  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___provider_google.html#ga15fc9dc54755adf1b3b40afd11b26afc  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___social_v4.html#ga7900657ce76a2650a6a1dc042b725d88  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___social_v4.html#gaa42bcb207a0b5f21cea600cceb86d48f  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/modules.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___social.html  한국어 페이지가 아닙니다.
+../../authv4/idp-connect-helper  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\authv4\idp-connect-helper.md
+http://developers.withhive.com/support/documentation/?board_name=Documents&search_field=fn_title&order_by=fn_pid&order_type=desc&board_page=1&list_type=list&vid=1  HTTP 상태 코드: 404
+https://en.facebookbrand.com/  연결할 수 없는 주소입니다: Cannot connect to host en.facebookbrand.com:443 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'en.facebookbrand.com'. (_ssl.c:1000)")]
+https://vk.com/brand  연결할 수 없는 주소입니다: Cannot connect to host vk.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')]
+https://jira.gamevilcom2us.com/jira/secure/attachment/223681/HiveAuthv4_LoginButtonName_20210205.pdf  DNS 오류: 주소를 찾을 수 없습니다.
+./user.md#checkblacklist  상대경로를 따라 다른 페이지로 이동했는데, 페이지에 해당 id가 없습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\authv4\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\authv4\login-helper.md
+https://developers.withhive.com/wp-content/uploads/2023/01/Hive_BI.zip  한국어 페이지가 아닙니다.
+https://vk.com/brand  연결할 수 없는 주소입니다: Cannot connect to host vk.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')]
+https://jira.gamevilcom2us.com/jira/secure/attachment/223681/HiveAuthv4_LoginButtonName_20210205.pdf  DNS 오류: 주소를 찾을 수 없습니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___auth_v4_helper.html#ga6b136b96c259153ea7e70fb4025f1cb2  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___auth_v4_helper.html#ga769e38ee9b2e55e966037afb66bea92e  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___auth_v4_helper.html#ga7e4e379e58e5f8c18da1b075effefc50  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___auth_v4_helper.html#gacbc2842c7d65131033d27a0d677a1f22  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___auth_v4.html#gadb65d9a79364d38f9c76d030d44765ae  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/class_auth_v4.html#a2df525facb41256f00f1bb0a4972ae48  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/dokka/-hive%20-s-d-k%20v4/com.hive/-auth-v4/set-provider%20-changed-listener.html  HTTP 상태 코드: 404
+https://developers.withhive.com/dev/authv4/login-helper/[cgv%20hive_sdk4_android_api_ref_en]/group%20_____v4.html%20Get%20=  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___auth_v4.html#gaf69661639e1aecbc6ba4314ab412f6de  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___auth_v4_helper.html #gaf73e5617a2ca3916804ee5f382e1b03b  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___auth_v4_helper .html#ga47d63f5b4ab29ba41621f6aacdf1acfe  한국어 페이지가 아닙니다.
+./advanced.md#explicit-signin-customizing  상대경로를 따라 다른 페이지로 이동했는데, 페이지에 해당 id가 없습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\authv4\promote-registration.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\authv4\user.md
+https://developers.withhive.com/HTML/dokka/-hive%20-s-d-k%20v4/com.hive/-auth-v4/check-blacklist%20.html  HTTP 상태 코드: 404
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\authv4\hive-sdk-prep\android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\authv4\hive-sdk-prep\common.md
+../../../operation/appcenter/appidmanagement.md#auth-v4-idp  상대경로를 따라 다른 페이지로 이동했는데, 페이지에 해당 id가 없습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\authv4\hive-sdk-prep\ios.md
+../../promotion/index.md#ios-universal  상대경로를 따라 다른 페이지로 이동했는데, 페이지에 해당 id가 없습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\authv4\hive-sdk-prep\unity.md
+../../../dev/initializing-hive/index.md#inapp-update  상대경로를 따라 다른 페이지로 이동했는데, 페이지에 해당 id가 없습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\authv4\hive-sdk-prep\unreal.md
+../../../dev/initializing-hive/index.md#inapp-update  상대경로를 따라 다른 페이지로 이동했는데, 페이지에 해당 id가 없습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\basic-config\index.md
+../overview/index.md#dev-flow  상대경로를 따라 다른 페이지로 이동했는데, 페이지에 해당 id가 없습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\basic-config\class\index.md
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___configuration.html#gabf7b027a4f90f60fc4ccfe8c256c7f83  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___configuration.html#ga6abb6e20d9cb3ad687def48189bdbc16  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___configuration.html#ga059433697ad537b78704b0e082f567d3  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___configuration.html#gacaf33ef01832167e7394018f83dd48a0  한국어 페이지가 아닙니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\basic-config\xml\common.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\basic-config\xml\gs.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\basic-config\xml\unity.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\basic-config\xml\unreal.md
+../../authv4/index.md#ue4  상대경로를 따라 다른 페이지로 이동했는데, 페이지에 해당 id가 없습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\billing\hive-item.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\billing\iapv4-init.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\billing\iapv4-purchase.md
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___i_a_p_v4.html#gad5e467681ef02fc2ab393bad201e617c  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___i_a_p_v4.html#ga4cd19176f947717f2c7be545ed76a6e0  한국어 페이지가 아닙니다.
+./../../../ko/api/hive-api/resultapicode_iapv4.md  이동할 페이지가 존재하지 않습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\billing\iapv4-verify-receipt.md
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/classhive_1_1_i_a_p_v4.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___i_a_p_v4.html#ga9c1bdc4c43001702e85bf8cf24f55408  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/classcom_1_1hive_1_1_i_a_p_v4.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/interface_h_i_v_e_i_a_p_v4.html  한국어 페이지가 아닙니다.
+../../../api/hive-api/resultapicode_iapv4/#restore  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+../getting-started/#supported-features  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+../../../api/hive-server-api/billing/verify-receipt  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+../../../api/hive-server-api/billing/verify-receipt/  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+../../billing/iapv4-purchase/#purchase  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+./#define-purchase-metadata  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\billing\index.md
+../../../dev/billing/pg-billing  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\billing\lebi.md
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___i_a_p_v4.html#ga8e528039533f4af9a8f3802b665680dc  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___i_a_p_v4.html#ga8b2053b7cc719b44525ea444987ed507  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___i_a_p_v4.html#ga9a6bba05645c8081d069ff191c93dce4  한국어 페이지가 아닙니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\billing\pg-billing.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\billing\promotional-iap.md
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/modules.html  한국어 페이지가 아닙니다.
+../../promotion/userengagement/#declare  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+../../promotion/userengagement/#enable-ue  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+../iapv4-init  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+../iapv4-purchase/  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\billing\subscriptions.md
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___i_a_p_v4.html#ga8bc933b87949571b1cc4062f9071f0fb  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___i_a_p_v4.html#ga6c2b500b83bc4cb4cb23da9921ed8f88  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/classcom_1_1hive_1_1_i_a_p_v4.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/interface_h_i_v_e_i_a_p_v4.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___i_a_p_v4.html#gaf225253d8fb916e480d45cd41981b725  한국어 페이지가 아닙니다.
+../getting-started/#supported-features  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+./#get-subscription-product-info  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+../../iapv4-purchase/#iap-payload  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+../iapv4-purchase/#purchase-info  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+./../../../ko/api/hive-api/resultapicode_iapv4.md  이동할 페이지가 존재하지 않습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\billing\hive-sdk-prep\android.md
+../../../operation/appcenter/appidmanagement.md#market-license  상대경로를 따라 다른 페이지로 이동했는데, 페이지에 해당 id가 없습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\billing\hive-sdk-prep\ios.md
+../../../operation/appcenter/appidmanagement.md#market-license  상대경로를 따라 다른 페이지로 이동했는데, 페이지에 해당 id가 없습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\billing\hive-sdk-prep\unity.md
+../../../operation/appcenter/appidmanagement.md#market-license  상대경로를 따라 다른 페이지로 이동했는데, 페이지에 해당 id가 없습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\billing\hive-sdk-prep\unreal.md
+../../../operation/appcenter/appidmanagement.md#market-license  상대경로를 따라 다른 페이지로 이동했는데, 페이지에 해당 id가 없습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\crossplay-launcher\deploy.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\crossplay-launcher\error-code.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\crossplay-launcher\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\crossplay-launcher\inspect.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\crossplay-launcher\pre-requisites-app-files.md
+../../../operation/crossplay/patcher#ftoc-heading-2  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\crossplay-launcher\pre-requisites-webpage.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\crossplay-launcher\upload-to-hive-server\overview.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\crossplay-launcher\upload-to-hive-server\upload-new-app-to-hive-server.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\crossplay-launcher\upload-to-hive-server\upload-patch-to-hive-server.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\datastore\datastore.md
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/classhive_1_1_data_store.html#a58a4e4c4fc26765facce8d24f3dab770  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/class_data_store.html#a2e34e6a27020c612188488f41eceec13  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/modules.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/modules.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/classhive_1_1_data_store.html#ac9748c68e408d70f2e40dd81f3306ba5  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/class_data_store.html#a6798397583efd8c8101a95558c27ab0c  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/classhive_1_1_data_store.html#a3e5c5b8727c4b47890b3897d501ad69d  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/class_data_store.html#a4c11a5f65262e72c4744270d394169fe  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/classhive_1_1_data_store.html#a24b232534c076e9ce1e91c604e365131  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/class_data_store.html#a859ad0af8eaf36b5404f7e49f2610ecd  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/classhive_1_1_data_store.html#ae9f7080ebbd9065e1b49edabd11708f6  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/class_data_store.html#a49caa0520988b36acffdce13b2ea9287  한국어 페이지가 아닙니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\datastore\index.md
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/classhive_1_1_data_store.html#a58a4e4c4fc26765facce8d24f3dab770  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/class_data_store.html#a2e34e6a27020c612188488f41eceec13  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/modules.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/modules.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/classhive_1_1_data_store.html#ac9748c68e408d70f2e40dd81f3306ba5  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/class_data_store.html#a6798397583efd8c8101a95558c27ab0c  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/classhive_1_1_data_store.html#a3e5c5b8727c4b47890b3897d501ad69d  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/class_data_store.html#a4c11a5f65262e72c4744270d394169fe  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/classhive_1_1_data_store.html#a24b232534c076e9ce1e91c604e365131  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/class_data_store.html#a859ad0af8eaf36b5404f7e49f2610ecd  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/classhive_1_1_data_store.html#ae9f7080ebbd9065e1b49edabd11708f6  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/class_data_store.html#a49caa0520988b36acffdce13b2ea9287  한국어 페이지가 아닙니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\datastore\hive-sdk-prep\android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\datastore\hive-sdk-prep\ios.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\datastore\hive-sdk-prep\unity.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\datastore\hive-sdk-prep\unreal.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\hercules\getting-started.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\hercules\hercules-advanced.md
+getting-started#apply-hercules-unreal  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\hercules\hercules-api.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\hercules\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\hercules\secure-variable.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\hive-talkplus\android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\hive-talkplus\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\hive-talkplus\ios.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\hive-talkplus\unity.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\initializing-hive\index.md
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___configuration.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___configuration.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___configuration.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___configuration.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___auth_v4.html#gac4114686e94d75276b63d6bfa1ecbb39  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/class_auth_v4.html#a22d6222ccdf851282dae120d6e1a0874  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___auth_v4.html#ga55ab50c5c5b044834b2f38d24914287b  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___auth_v4.html#ga5bb9cbf4d488012a9bf8a867d7ee4aa7  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___auth_v4.html#ga5bb6b2cda6948f3d7c09f4750f6f5be0  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/class_auth_v4.html#a1ec16ec36b46ac7ee1588c7e945c8679  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___auth_v4.html#gadf7d1b3f03f19768d62524e3391c383e  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___auth_v4.html#ga0f88c74923695d8bf2a52c63035b7990  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___auth_v4.html#gaa030cfb4eacab4d23eef9f4c38b27d81  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___auth_v4.html#gaadbd6b0af5817d687538c0e044041255  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___auth_v4.html#ga7c6c52239eda6cadc300bca7d2adb052  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___auth_v4.html#gaae28cc9eb24748f7adc2866d51452f52  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___auth_v4.html#gaa882cc4786307ee6a248f23872edcaee  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/class_auth_v4.html#aa11a6e0057add2607c6b22fa68b2a998  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___auth_v4.html#ga8cacc7e131726f703ae63cf3090a3439  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___auth_v4.html#ga68f4ae897244b25b9b3a975f094bd79a  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___auth_v4.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___auth_v4.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___auth_v4.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___auth_v4.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___auth_v4.html#gab69cacdfe77c20158031696c4e8edb1f  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___auth_v4.html#ga1729f3ded9d55ac246ca5ac2fe685f9b  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___social_v4.html#ga2ff9c317cbffc9512eb9a3478e4559c6  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___social_v4.html#ga428aee05e21f11370417f6f89419f478  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___social.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/modules.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___logger.html#gad818429a18dd781ce28fb9ad119ff8ff  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___logger.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/  한국어 페이지가 아닙니다.
+../../../operation/provisioning/popups  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+../../operation/community/  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+../../operation/provisioning/whitelist/  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+../../../operation/provisioning/remotelogging  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\marketing-attribution\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\marketing-attribution\send-exposed-ad-info.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\marketing-attribution\track-event-automatically.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\marketing-attribution\track-event-manually.md
+#send-event  상대경로를 따라 다른 페이지로 이동했는데, 페이지에 해당 id가 없습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\marketing-attribution\tracker-elem.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\marketing-attribution\hive-sdk-prep\android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\marketing-attribution\hive-sdk-prep\common.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\marketing-attribution\hive-sdk-prep\ios.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\marketing-attribution\hive-sdk-prep\unity.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\marketing-attribution\hive-sdk-prep\unreal.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\notification\advanced.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\notification\getting-started.md
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___push.html#ga1e40f8388c140c99d7f8be71cb23928d  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___push.html#gaff4d7d1b88ab4faa91cd026439ec571d  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/classcom_1_1hive_1_1_push.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___push.html#ga323a5c9e67981bd80b8cc2ebe6f64757  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___push.html#gad0c8dcd52ccff170d3d0e11fafe499bd  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___push.html#gac8481815d8f0fc52d0d047dc060b27e3  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___push.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___push.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___push.html  한국어 페이지가 아닙니다.
+../remote-push  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+../../api/hive-server-api/timezone/  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\notification\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\notification\local-push.md
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/modules.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___push.html#ga446729dc96e055b5084219c85e80581a  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___push.html#ga4e6261a54b9f720ffd07470ac5fd01c4  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___push.html#gaca2716a2e7f14fe4039249a0c6f770df  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___push.html#ga0150c418b6914ccb38a7c8f3db08e14e  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___push.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___push.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___push.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___push.html  한국어 페이지가 아닙니다.
+#bigmsg-and-bigpicture-field  상대경로를 따라 다른 페이지로 이동했는데, 페이지에 해당 id가 없습니다.
+#type-field  상대경로를 따라 다른 페이지로 이동했는데, 페이지에 해당 id가 없습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\notification\remote-push.md
+../../../operation/notification  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+../../../api/hive-server-api/notification/  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\notification\hive-sdk-prep\android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\notification\hive-sdk-prep\ios.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\notification\hive-sdk-prep\unity.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\notification\hive-sdk-prep\unreal.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\basic-config\android-basic-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\basic-config\cocos2d-x-basic-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\basic-config\ios-basic-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\basic-config\ue4-basic-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\basic-config\ue5-basic-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\basic-config\unity-basic-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\dev-flow\index.md
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___auth_v4.html#ga4b8d5cc68787d2002855540d3e2405d7  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___auth_v4_helper.html#gaf7b2f195540e678d5afd4b1dcd213372  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___auth_v4.html#ga2459ef85ff1952a346544b7c131ea87b  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___i_a_p_v4.html#ga58d1ae6fa6cf5506157214904de5b99a  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___i_a_p_v4.html#gacc97bd1071172321da7888718f954c9d  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___i_a_p_v4.html#ga7bed04f71819875d36cfa13199bd09c6  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___i_a_p_v4.html#gad5e467681ef02fc2ab393bad201e617c  한국어 페이지가 아닙니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\features\android-features.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\features\cocos2d-x-features.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\features\ios-features.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\features\ue4-features.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\features\ue5-features.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\features\unity-features.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\getting-started\install\android-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\getting-started\install\cocos2d-x-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\getting-started\install\ios-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\getting-started\install\ue4-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\getting-started\install\ue5-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\getting-started\install\unity-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\getting-started\post-install\android-post-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\getting-started\post-install\cocos2d-x-post-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\getting-started\post-install\ios-post-install.md
+https://developers.withhive.com/wp-content/uploads/2021/05/Hive_iOS_localize_20210514_for_HIVESDK.zip  한국어 페이지가 아닙니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\getting-started\post-install\ue4-post-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\getting-started\post-install\ue5-post-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\getting-started\post-install\unity-post-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\getting-started\pre-install\android-pre-install.md
+../../../../index.md#requirements  상대경로를 따라 다른 페이지로 이동했는데, 페이지에 해당 id가 없습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\getting-started\pre-install\cocos2d-x-pre-install.md
+../../../../index.md#requirements  상대경로를 따라 다른 페이지로 이동했는데, 페이지에 해당 id가 없습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\getting-started\pre-install\ios-pre-install.md
+../../../../index.md#requirements  상대경로를 따라 다른 페이지로 이동했는데, 페이지에 해당 id가 없습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\getting-started\pre-install\ue4-pre-install.md
+https://docs.unrealengine.com/4.27/ko/ProgrammingAndScripting/ProgrammingWithCPP/DownloadingSourceCode/  HTTP 상태 코드: 403
+../../../../index.md#requirements  상대경로를 따라 다른 페이지로 이동했는데, 페이지에 해당 id가 없습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\getting-started\pre-install\ue5-pre-install.md
+https://dev.epicgames.com/documentation/ko-kr/unreal-engine/downloading-unreal-engine-source-code?application_version=5.4  HTTP 상태 코드: 403
+../../../../index.md#requirements  상대경로를 따라 다른 페이지로 이동했는데, 페이지에 해당 id가 없습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\getting-started\pre-install\unity-pre-install.md
+../../../../index.md#requirements  상대경로를 따라 다른 페이지로 이동했는데, 페이지에 해당 id가 없습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\pre-dev\android-pre-dev.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\pre-dev\cocos2d-x-pre-dev.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\pre-dev\ios-pre-dev.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\pre-dev\ue4-pre-dev.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\pre-dev\ue5-pre-dev.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\pre-dev\unity-pre-dev.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\prep-build\android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\prep-build\ios.md
+https://developers.withhive.com/wp-content/uploads/2023/02/SWIFT_VERSION.png,  한국어 페이지가 아닙니다.
+https://developers.withhive.com/wp-content/uploads/2023/02/ENBALE_BITCODE.png,  한국어 페이지가 아닙니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\prep-build\unity-android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\prep-build\unity-ios.md
+../features/unity-features.md#iOS-lib  상대경로를 따라 다른 페이지로 이동했는데, 페이지에 해당 id가 없습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\prep-build\unity-windows.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\prep-build\unreal-android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\prep-build\unreal-ios.md
+https://developers.withhive.com/wp-content/uploads/2021/05/Hive_iOS_localize_20210514_for_HIVESDK.zip  한국어 페이지가 아닙니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\prep-build\unreal-windows.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\service\index.md
+https://developers.withhive.com/wp-content/uploads/2023/02/대외비-Hive-연동-가이드라인-체크리스트_20230214_최종.xlsx  한국어 페이지가 아닙니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\store-config\android-store-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\store-config\cocos2d-x-store-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\store-config\ios-store-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\store-config\ue4-store-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\store-config\ue5-store-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\overview\store-config\unity-store-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\promotion\advanced.md
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___promotion.html#gac1cd1311997d3a4d50d62c2c934faf94  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___promotion.html#ga36f196252fb821160c34348e4b5abef7  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___promotion.html#gaca21aeac6c34802eb0c585d7646255af  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___promotion.html#ga06539226b1b32695bcffc29ed8e89e4f  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___promotion.html#ga9b7adcdde5138beb030c36acb4646d68  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___promotion.html#gadf05491f3eca8c9a24a2e4bfbbfe8f09  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___promotion.html#ga36044aa3b77973adeab80d63883cd25c  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___promotion.html#gacab9d2c10bec23f23a7b1cd37ec3b734  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___promotion.html#gaa3b6f40bbbef294c7008fa97e602a2d0  한국어 페이지가 아닙니다.
+../../../operation/promotion/custom_view  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+../../../operation/promotion/custom_board  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+./#get-banner-info  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\promotion\index.md
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___promotion.html#ga55443a847307904d043ef80dcdff4c7d  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___promotion.html#ga0f364889f11802995b1aeb175f082567  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/interfacecom_1_1hive_1_1_promotion_1_1_promotion_view_listener.html  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___promotion.html#gaa3b6f40bbbef294c7008fa97e602a2d0  한국어 페이지가 아닙니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\promotion\interstitial-banners.md
+../../../operation/promotion/event_cam  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\promotion\news.md
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___promotion.html#ga1430dfc29795414551bf741a3da11eb0  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___promotion.html#gabc320a23e0e6a3764a66727250ac0234  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___promotion.html#ga124680349a8006aaec1ab94c5e66b9d5  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___promotion.html#ga3b1a9656752336c77ecd82e060d74cab  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___promotion.html#gac30c93cdeba33b29b775f2b7774377a8  한국어 페이지가 아닙니다.
+https://developers.withhive.com/dev/promotion/news/#tab-id-55:~:text=hive.Promotion.showNews  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/dokka/-hive%20-s-d-k%20v4/com.hive/-promotion/update-promotion-data%20.html  HTTP 상태 코드: 404
+https://developers.withhive.com/HTML/dokka/-hive%20-s-d-k%20v4/com.hive/-configuration/update-server-id%20.html  HTTP 상태 코드: 404
+https://developers.withhive.com/HTML/dokka/-hive%20-s-d-k%20v4/com.hive/-configuration/update-game-language%20.html  HTTP 상태 코드: 404
+../../../operation/promotion/event_cam/  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\promotion\offerwall.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\promotion\popups.md
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___promotion.html#gaee987669c382e6b0d20ad25439c833fb  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___promotion.html#ga18e4ec532e8fff7b3c7cb25298936757  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___promotion.html#gabc320a23e0e6a3764a66727250ac0234  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___promotion.html#ga124680349a8006aaec1ab94c5e66b9d5  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___promotion.html#ga263d7228e3f3094b02dd15067dbffaf4  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___promotion.html#ga477b506e2dafd4d75ffa9048b4613844  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___promotion.html#ga3e98b0391071b20cfd9e3a329847a6b8  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___promotion.html#ga105035239e90f2147f43f23dffaef6a8  한국어 페이지가 아닙니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\promotion\promo-badge.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\promotion\useracquisition.md
+https://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/group___promotion.html#gab06903738cc35a8c4e7ff52bbf80758e  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___promotion.html#ga8d3ee99b710c5bf38afef72f6c021636  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/Android/group___promotion.html#gacab9d2c10bec23f23a7b1cd37ec3b734  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___promotion.html#ga4eddb4ce9898c492877e17dfbfa49f5d  한국어 페이지가 아닙니다.
+../../../operation/promotion/ua  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+../../billing/hive-item  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+../../../api/hive-server-api/promotion/cpa  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\promotion\userengagement.md
+https://developers.withhive.com/HTML/v4_api_reference_en/CPP/group___promotion.html#gaff8b21241018ecd78a078ec9b14e9b61  한국어 페이지가 아닙니다.
+https://developers.withhive.com/HTML/v4_api_reference_en/iOS/group___promotion.html#ga4eddb4ce9898c492877e17dfbfa49f5d  한국어 페이지가 아닙니다.
+http://developers.withhive.com/HTML/v4_api_reference_en/Unity3D/classhive_1_1_user_engagement.html#a4a34f5e450cbf5084d734ca846135fd8  HTTP 상태 코드: 404
+http://developers.withhive.com/HTML/v4_api_reference_en/Android/classcom_1_1hive_1_1_user_engagement.html#a21051f51a8843eb8c539ae065ebc05b6  HTTP 상태 코드: 404
+/#common-field  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+../advanced/#spot-banner  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\promotion\hive-sdk-prep\android.md
+../../promotion/useracquisition.md=3951  상대경로가 마크다운 페이지가 아닙니다. 그냥 디렉토리 이거나 잘못된 경로일 수 있습니다.
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\promotion\hive-sdk-prep\common.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\promotion\hive-sdk-prep\ios.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\promotion\hive-sdk-prep\unity.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\promotion\hive-sdk-prep\unreal.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\references\identifier.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\dev\references\index.md
+
+

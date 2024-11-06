@@ -1,0 +1,697 @@
+TARGET DIRECTORY: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\ad-monetization\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\ad-monetization\hive-adiz\android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\ad-monetization\hive-adiz\ios.md
+elopers.withhive.com/wp-content/uploads/2024/01/admob-console-example.png" alt="" width="700" /></a></li>
+
+GDPR 메시지를 작성했다면 <a href="#init">Adiz 초기화</a> 시 자동으로 GDPR 동의 팝업이 노출됩니다. 
+
+<img class="aligncenter"  
+--------------------------------------------------
+velopers.withhive.com/wp-content/uploads/2024/01/gdpr-consent-popup-1.png" alt="" width="450" /></a></li>
+
+### GDPR 동의/철회 기능 구현 { #implement-privacy-option }
+GDPR 동의 팝업에 있는 항목들은 유저가 동의 여부를 언제든지 수정할 수 있도록 수 
+--------------------------------------------------
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\ad-monetization\hive-adiz\unity.md
+elopers.withhive.com/wp-content/uploads/2024/01/admob-console-example.png" alt="" width="700" /></a></li>
+
+GDPR 메시지를 작성했다면 <a href="#init">Adiz 초기화</a> 시 자동으로 GDPR 동의 팝업이 노출됩니다. 
+
+<img class="aligncenter"  
+--------------------------------------------------
+lopers.withhive.com/wp-content/uploads/2024/01/gdpr-consent-popup-1.png" alt="" width="300px" /></a></li>
+
+### GDPR 동의 및 철회 기능 구현 { #implement-privacy-option }
+GDPR 동의 팝업에 있는 항목들은 유저가 동의 여부를 언제든지 수정할 수 있도록 
+--------------------------------------------------
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\ad-monetization\hive-adkit\adop\android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\ad-monetization\hive-adkit\adop\cpp.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\ad-monetization\hive-adkit\adop\ios.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\ad-monetization\hive-adkit\adop\unity.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\ad-monetization\hive-adkit\adx\cpp.md
+y_iOS_Release.git'
+$pod 'ADXLibrary'
+__CODE_BLOCK_2__java
+pod install --repo-update
+```</li>
+
+</ol>
+</ul>
+</li>
+</ul>
+
+<li><string>적용 예제에는 AdMob의 테스트 광고 키가 설정되어 있습니다.</string>
+
+<pre class=" gutteer: false; 
+--------------------------------------------------
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\ad-monetization\hive-adkit\adx\unity.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\add-ons\game-controller.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\add-ons\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\add-ons\ingamebrowser.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\add-ons\rtt4u\config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\add-ons\rtt4u\how-to-use.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\add-ons\rtt4u\overview.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\analytics\consent-banner-exposure.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\analytics\hive-pre-work.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\analytics\hive-send-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\analytics\hive-structure.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\analytics\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\analytics\hive-sdk-prep\common.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\analytics\hive-send-log\fluentd.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\analytics\hive-send-log\hivesdk.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\analytics\hive-send-log\http.md
+pan></li>
+</ul>
+</li>
+</ul>
+
+__CODE_BLOCK_0__
+
+&nbsp;
+
+<ul>
+ 	<li><strong>Body Information</strong>
+<ul>
+ 	<li>JSON 형식이며 아래 구조에 맞춰서 전송해야 합니다. 일부 필드는 지정된 키값을 사용해야 입력됩니다.</li>
+ 	<li>필수 파라미터 (로그에서 아래 필드  
+--------------------------------------------------
+dy Information</strong>
+<ul>
+ 	<li>JSON 형식이며 아래 구조에 맞춰서 전송해야 합니다. 일부 필드는 지정된 키값을 사용해야 입력됩니다.</li>
+ 	<li>필수 파라미터 (로그에서 아래 필드 전송 필수)
+	<table border="1">
+	<tbody>
+	<tr>
+	<td>appId</td>
+	<td>String</td>
+	 
+--------------------------------------------------
+pan></li>
+</ul>
+</li>
+</ul>
+
+__CODE_BLOCK_0__
+
+&nbsp;
+
+<ul>
+ 	<li><strong>Body Information</strong>
+<ul>
+ 	<li>JSON 형식이며 아래 구조에 맞춰서 전송해야 합니다. 일부 필드는 지정된 키값을 사용해야 입력됩니다.</li>
+ 	<li>필수 파라미터 (로그에서 아래 필드  
+--------------------------------------------------
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\analytics\hive-send-log\send-log-batch.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\analytics\hive-send-log\fluentd\application.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\analytics\hive-send-log\fluentd\fluentd-docker-guide.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\analytics\hive-send-log\fluentd\fluentd-guide.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\analytics\hive-send-log\fluentd\logfile.md
+집합입니다. chunk는 주기적으로 출력 대기열로 flush된 다음, 지정된 대상으로 전송 됩니다. (작동 방식은 아래 <strong>다이어그램</strong>을 참고)</li>
+</ul>
+
+&nbsp;
+
+<img class="alignnone wp-image-70240" src="https://developers.withhive.com/wp-content/uplo 
+--------------------------------------------------
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\analytics\hive-send-log\send-log-batch\how-to-send.md
+ 후 바로 파일을 이동시키기 때문이며 동일 파일을 재업로드 하면 데이터가 중복으로 빅쿼리에 적재 되니 참고하시기를 바랍니다.</span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+## fluentD를 통한 로그 전송 { #id-스냅샷로그전송방법-fluentD를통한로그파일전송 }
+
+???+ note
+	스트리밍 FluentD에서 수신하는 서버로는 
+--------------------------------------------------
+파일을 이동시키기 때문이며 동일 파일을 재업로드 하면 데이터가 중복으로 빅쿼리에 적재 되니 참고하시기를 바랍니다.</span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+## fluentD를 통한 로그 전송 { #id-스냅샷로그전송방법-fluentD를통한로그파일전송 }
+
+???+ note
+	스트리밍 FluentD에서 수신하는 서버로는 로그 배치 
+--------------------------------------------------
+-cursor-target">라인 단위 전송(10Mbyte 이하)이 불가능 한 경우 google cloud storage 파일 업로드 방식 이용을 권장합니다.</li>
+</ul>
+</li>
+</ul>
+
+### 로그 배치 전용 서버 정보 { #id-스냅샷로그전송방법-스냅샷로그전용fluentD서버정보 }
+<div class="table-wrap">
+<table clas 
+--------------------------------------------------
+r-target">라인 단위 전송(10Mbyte 이하)이 불가능 한 경우 google cloud storage 파일 업로드 방식 이용을 권장합니다.</li>
+</ul>
+</li>
+</ul>
+
+### 로그 배치 전용 서버 정보 { #id-스냅샷로그전송방법-스냅샷로그전용fluentD서버정보 }
+<div class="table-wrap">
+<table class="wra 
+--------------------------------------------------
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\analytics\hive-send-log\send-log-batch\pre-requisites.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\authv4\adult-verification.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\authv4\advanced.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\authv4\idp-connect-helper.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\authv4\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\authv4\login-helper.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\authv4\promote-registration.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\authv4\sdf.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\authv4\user.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\authv4\hive-sdk-prep\android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\authv4\hive-sdk-prep\common.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\authv4\hive-sdk-prep\ios.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\authv4\hive-sdk-prep\unity.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\authv4\hive-sdk-prep\unreal.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\basic-config\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\basic-config\class\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\basic-config\xml\common.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\basic-config\xml\gs.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\basic-config\xml\unity.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\basic-config\xml\unreal.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\billing\hive-item.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\billing\iapv4-init.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\billing\iapv4-purchase.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\billing\iapv4-verify-receipt.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\billing\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\billing\lebi.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\billing\pg-billing.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\billing\promotional-iap.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\billing\subscriptions.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\billing\hive-sdk-prep\android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\billing\hive-sdk-prep\ios.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\billing\hive-sdk-prep\unity.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\billing\hive-sdk-prep\unreal.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\crossplay-launcher\deploy.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\crossplay-launcher\error-code.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\crossplay-launcher\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\crossplay-launcher\inspect.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\crossplay-launcher\pre-requisites-app-files.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\crossplay-launcher\pre-requisites-webpage.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\crossplay-launcher\upload-to-hive-server.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\crossplay-launcher\upload-to-hive-server\upload-new-app-to-hive-server.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\crossplay-launcher\upload-to-hive-server\upload-patch-to-hive-server.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\datastore\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\datastore\hive-sdk-prep\android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\datastore\hive-sdk-prep\ios.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\datastore\hive-sdk-prep\unity.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\datastore\hive-sdk-prep\unreal.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\hercules\getting-started.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\hercules\hercules-advanced.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\hercules\hercules-api.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\hercules\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\hercules\secure-variable.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\hive-talkplus\android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\hive-talkplus\channel.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\hive-talkplus\error-code.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\hive-talkplus\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\hive-talkplus\ios.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\hive-talkplus\unity.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\hive-talkplus\user.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\initializing-hive\index.md
+e_logging_flowchart_kr.png){width="700px"}
+
+<li> 예제 코드 <br>
+게임에서 로그를 수집하려는 위치마다 아래 코드를 삽입합니다. </li>
+</ul>
+
+=== "Unity"
+	API Reference: [Logger .log](https://developers.withhive.com/HTML/v4_api_reference_en 
+--------------------------------------------------
+DE_BLOCK_83__
+
+???+ note
+	<p class="">`forceReload`를 `false`로 설정하면 캐시 데이터를 사용할 수 있습니다.</p>
+
+	<ul>
+		<li>`forceReload`가 `true`인 경우에는 `getMetaDate()`를 호출하면 로컬에 저장된 데이터는 삭제되고 서버에서 최신 데이터를 가져오려고 시도합니다. 이는 
+--------------------------------------------------
+
+
+	__CODE_BLOCK_83__
+
+???+ note
+	<p class="">`forceReload`를 `false`로 설정하면 캐시 데이터를 사용할 수 있습니다.</p>
+
+	<ul>
+		<li>`forceReload`가 `true`인 경우에는 `getMetaDate()`를 호출하면 로컬에 저장된 데이터는 삭제되고 서버에서 최신 데이터를 가져오려고 시도 
+--------------------------------------------------
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\marketing-attribution\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\marketing-attribution\send-exposed-ad-info.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\marketing-attribution\track-event-automatically.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\marketing-attribution\track-event-manually.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\marketing-attribution\tracker-elem.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\marketing-attribution\hive-sdk-prep\android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\marketing-attribution\hive-sdk-prep\common.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\marketing-attribution\hive-sdk-prep\ios.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\marketing-attribution\hive-sdk-prep\unity.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\marketing-attribution\hive-sdk-prep\unreal.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\notification\advanced.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\notification\getting-started.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\notification\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\notification\local-push.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\notification\remote-push.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\notification\hive-sdk-prep\android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\notification\hive-sdk-prep\ios.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\notification\hive-sdk-prep\unity.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\notification\hive-sdk-prep\unreal.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\basic-config\android-basic-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\basic-config\cocos2d-x-basic-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\basic-config\ios-basic-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\basic-config\ue4-basic-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\basic-config\ue5-basic-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\basic-config\unity-basic-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\dev-flow\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\features\android-features.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\features\cocos2d-x-features.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\features\ios-features.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\features\ue4-features.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\features\ue5-features.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\features\unity-features.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\getting-started\install\android-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\getting-started\install\cocos2d-x-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\getting-started\install\ios-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\getting-started\install\ue4-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\getting-started\install\ue5-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\getting-started\install\unity-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\getting-started\post-install\android-post-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\getting-started\post-install\cocos2d-x-post-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\getting-started\post-install\ios-post-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\getting-started\post-install\ue4-post-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\getting-started\post-install\ue5-post-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\getting-started\post-install\unity-post-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\getting-started\pre-install\android-pre-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\getting-started\pre-install\cocos2d-x-pre-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\getting-started\pre-install\ios-pre-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\getting-started\pre-install\ue4-pre-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\getting-started\pre-install\ue5-pre-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\getting-started\pre-install\unity-pre-install.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\pre-dev\android-pre-dev.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\pre-dev\cocos2d-x-pre-dev.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\pre-dev\ios-pre-dev.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\pre-dev\ue4-pre-dev.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\pre-dev\ue5-pre-dev.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\pre-dev\unity-pre-dev.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\prep-build\android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\prep-build\ios.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\prep-build\unity-android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\prep-build\unity-ios.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\prep-build\unity-windows.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\prep-build\unreal-android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\prep-build\unreal-ios.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\prep-build\unreal-windows.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\service\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\store-config\android-store-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\store-config\cocos2d-x-store-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\store-config\ios-store-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\store-config\ue4-store-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\store-config\ue5-store-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\overview\store-config\unity-store-config.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\promotion\advanced.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\promotion\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\promotion\interstitial-banners.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\promotion\news.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\promotion\offerwall.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\promotion\popups.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\promotion\promo-badge.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\promotion\useracquisition.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\promotion\userengagement.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\promotion\hive-sdk-prep\android.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\promotion\hive-sdk-prep\common.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\promotion\hive-sdk-prep\ios.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\promotion\hive-sdk-prep\unity.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\promotion\hive-sdk-prep\unreal.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\references\identifier.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\ko\dev\references\index.md
+
+

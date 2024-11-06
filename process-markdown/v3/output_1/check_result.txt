@@ -1,0 +1,441 @@
+TARGET DIRECTORY: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-xpla-games-api.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\leaderboard-api.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\match-making-api.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\blockchain-api\hive-blockchain-api.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\blockchain-api\hive-blockchain-auth-api.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\blockchain-api\hive-blockchain-open-api.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\blockchain-api\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\blockchain-api\hive-blockchain-open-api\asset.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\blockchain-api\hive-blockchain-open-api\chain.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\blockchain-api\hive-blockchain-open-api\contract.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\blockchain-api\hive-blockchain-open-api\extension.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\blockchain-api\hive-blockchain-open-api\kms.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\blockchain-api\hive-blockchain-open-api\lock.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\blockchain-api\hive-blockchain-open-api\metadata.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\blockchain-api\hive-blockchain-open-api\multi-sig.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\blockchain-api\hive-blockchain-open-api\nft.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\blockchain-api\hive-blockchain-open-api\token.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\blockchain-api\hive-blockchain-open-api\transaction.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\blockchain-api\hive-blockchain-open-api\wallet.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-sdk-api\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-sdk-api\result-api.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\community.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\event.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\index.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\access-restriction\get-block-info.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\access-restriction\initialize-ranking.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\access-restriction\restrict-access.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\ai-services\ats.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\ai-services\clcs.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\ai-services\tads.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\add-file-download-complete-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\asset-snapshot-summary-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\asset-var-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\cash-var-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\ccu-api.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\ccu-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\character-creation-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\character-login-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\common-meta-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\custom-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\file-download-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\game-content-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\get-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\guest-transition-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\help-request-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\invitation-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\invitation2-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\login-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\new-user-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\play-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\purchase-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\score-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\score2-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\visit-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\analytics\withdraw-log.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\auth\authv1-verifysession.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\auth\authv4-account-deletion.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\auth\authv4-authenticatecustom.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\auth\authv4-idplist.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\auth\authv4-verifytoken.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\auth\c2s-verifysessionkey.md
+Request Sample (Includes to support China's overindulgence prevetion system)
+  
+  __CODE_BLOCK_2__
+ </li>
+ </ul>
+
+<ul>
+  <li><span class="notranslate">Response</span> <span class="notranslate">Sample</span 
+--------------------------------------------------
+ Sample (Includes to support China's overindulgence prevetion system)
+  
+  __CODE_BLOCK_2__
+ </li>
+ </ul>
+
+<ul>
+  <li><span class="notranslate">Response</span> <span class="notranslate">Sample</span> (Incl 
+--------------------------------------------------
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\billing\get-history.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\billing\hiveitem-v2.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\billing\item-result.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\billing\notify-subscription.md
+ranslate">server</span> >  <span class="notranslate">IAP</span>)</strong>
+</li>
+
+	__CODE_BLOCK_4__
+
+</ul>
+
+&nbsp; 
+--------------------------------------------------
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\billing\pg-payment.md
+        <td class="custom-basic">Bearer (token)</td>
+            </tr>
+        </tbody>
+    </table></li>
+</ul>
+
+The Bearer token corresponds to the Certification Key found in %% brand_name %% Console App  
+--------------------------------------------------
+v1)
+                    player_id : Auth v4(v4)</td>
+            </tr>
+        </tbody>
+    </table></li>
+</ul>
+
+### <span class="notranslate">Response</span> <span class="notranslate">elements</span>
+
+<ul 
+--------------------------------------------------
+        <td class="custom-basic">Bearer (token)</td>
+            </tr>
+        </tbody>
+    </table></li>
+
+		The Bearer token corresponds to the Certification Key found in %% brand_name %% Console App Cent 
+--------------------------------------------------
+ such as BlueStacks, return 1; unless, return 0</td>
+            </tr>
+        </tbody>
+    </table></li>
+</ul>
+
+### <span class="notranslate">Response</span> <span class="notranslate">elements</span>
+
+<ul 
+--------------------------------------------------
+        <td class="custom-basic">Bearer (token)</td>
+            </tr>
+        </tbody>
+    </table></li>
+		The Bearer token corresponds to the Certification Key found in %% brand_name %% Console App Cente 
+--------------------------------------------------
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\billing\verify-receipt.md
+"VIVO"
+
+		__CODE_BLOCK_30__
+
+=== "OPPO"
+
+		__CODE_BLOCK_31__
+
+=== "XIAOMI"
+
+		__CODE_BLOCK_32__
+		
+
+</li>
+</ul> 
+--------------------------------------------------
+
+
+		__CODE_BLOCK_30__
+
+=== "OPPO"
+
+		__CODE_BLOCK_31__
+
+=== "XIAOMI"
+
+		__CODE_BLOCK_32__
+		
+
+</li>
+</ul> 
+--------------------------------------------------
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\billing\verify-subscription.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\billing\voided-purchases.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\billing\web-coupon.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\billing\web-pg-payment.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\membership\secession.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\membership\withdrawal-period.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\notification\otp\hive-otp.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\notification\pushv4\auth.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\notification\pushv4\campaign-reg.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\notification\pushv4\single-push-v4.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\notification\pushv4\targeting-reg.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\promotion\banner.md
+00</strong></td>
+	<td>Success</td>
+	<td>data transmission succeeded</td>
+	</tr>
+	</tbody>
+</table>
+
+</li>
+</ul>
+
+<ul>
+<li><span class="notranslate">Response</span> <span class="notranslate">Example</span>  
+--------------------------------------------------
+ong>200</strong></td>
+<td>Success</td>
+<td>data transmission succeeded</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+
+<ul>
+<li><span class="notranslate">Response</span> <span class="notranslate">Example</span>  
+--------------------------------------------------
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\promotion\cpa.md
+_BLOCK_0__
+   
+    * Request
+            
+	__CODE_BLOCK_1__
+  
+    * Response
+
+	__CODE_BLOCK_2__
+	
+
+</ul>
+
+&nbsp;
+
+<hr /> 
+--------------------------------------------------
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\promotion\en_cpa.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\promotion\ua-friends.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\promotion\ua-process.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\promotion\ua-sender.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\timezone\get-countrycode.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\timezone\get-timezone.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\web-login\get-playerid-with-auth-v4-idp-id.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\web-login\getting-started.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\web-login\verify-token-v1.md
+   </tbody>
+        </table>
+    </li>
+</ul>
+
+
+* Request Example
+__CODE_BLOCK_0__
+__CODE_BLOCK_1__
+
+</ul>
+
+<ul>
+    <li><span class="notranslate">Response</span> <span class="notranslate">Body</span>
+      
+--------------------------------------------------
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\web-login\verify-token-v2.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\web-login\web-login-v1.md
+
+
+FILE: C:\Users\khy\Documents\workspace\devsite_mk\docs\en\api\hive-server-api\web-login\web-login-v2.md
+
+
