@@ -1,2 +1,81 @@
-# temp
-Temp repository for development portfolio
+# Ray's Dev Footage
+
+이 저장소는 Ray Kim이 취미 또는 TW 업무상 필요해서 짬짬이 개발한 간단한 도구들을 소개하기 위해 임시로 만든 공용 저장소입니다.
+
+대부부 Python 코드 또는 Windows Powershell 스크립트이며, 지금은 사용하지 않는 아주 개발새발 작성한 Node.js 코드도 있습니다.
+
+공개를 위해 Private 저장소에서 Public 저장소로 급하게 전환하다 보니, 아직 코드 정리가 되지 않은 곳이 매우 많습니다. 추후 리팩토링 등으로 개선해나갈 예정입니다.
+
+## UnityReleaseToNativeRelease
+
+개발자 가이드 Unity 엔진 릴리즈 노트를 파싱하여 자동으로 Android Native 릴리즈 노트와 iOS Native 릴리즈 노트를 생성하는 코드입니다. 지금은 사용하지 않습니다.
+
+## broken-link-checker/V9
+
+개발자 가이드에 있는 모든 상대 링크, 절대 링크를 체크하여 잘 작동하는지 보고서를 작성하는 코드입니다. 네임드 앵커 연결까지 체크합니다. 지금은 Material for MkDocs 내장 링크 체커를 사용하므로 이 코드는 사용하지 않습니다.
+
+## change-heading-style
+
+개발자 가이드 헤딩 스타일을 변경하기 위해 만든 코드입니다. 지금은 사용하지 않습니다.
+
+## common
+
+문서 수정, Git과 Gitlab 컨트롤을 위한 유틸리티 함수들입니다.
+
+## concordance_search
+
+번역 도구에서 제공하는 Concordance Search를 직접 만들어본 코드입니다. TMX 파일 형식의 번역 메모리를 읽어들인 후, 역 색인(inverted index)을 생성, Concordance Search UI로 역 색인에서 검색을 수행하고 결과를 리턴합니다. 지금은 사용하지 않습니다.
+
+## files-include-a-term
+
+특정 단어를 포함하고 있는 문서 파일들이 담긴 디렉토리 목차를 추출하는 코드입니다. 루트 디렉토리를 입력하면 하위 디렉토리에서도 재귀적으로 탐색을 진행합니다. 탐색하고 싶지 않은 디렉토리 목록(excluded_directories)을 넘겨주면 이들을 검색 범위에서 제외하고 찾을 수도 있습니다.
+
+## html-to-md
+
+워드프레스 레거시 형식이 섞여있는 HTML 문서를 Python Markdown 문서로 변환하는 코드입니다. GUI를 지원합니다.
+
+## llm/unified
+
+LLM API를 호출해 문서를 다국어로 자동 번역하는 코드입니다. 현재 지속적으로 개발중입니다.
+
+### v1 GUI/GUI_Realtime
+
+source 콘텐츠를 복사해 붙여넣고, API 플랫폼과 모델을 선택하고, 번역 버튼을 누르면 LLM API를 호출해 해당 다국어로 번역한 텍스트를 리턴하는 코드입니다. GUI 방식이며 GUI는 파일 단위 번역, GUI_Realtime은 실시간 번역입니다. 
+
+### v6-common
+
+일반적으로 사용할 수 있는 영한 번역기를 구현한 코드입니다. GUI는 없으며 현재 LLaMA 3.1 70b 모델만 지원합니다.
+
+### v9
+
+GPT4-O-mini API를 사용한 번역 도구입니다.
+
+#### `translate.py`
+
+파일 단위 번역을 하는 코드입니다.
+
+#### `translate_md.py`
+  
+파일에서 변경 사항만을 추적하여, 변경된 내용만 번역하는 코드입니다. LLM 번역 오류를 줄이고, API 호출 비용 등을 줄이기 위해 작성했습니다.
+
+1. Merge Request에 있는 commit들을 추출해 변경 사항들을 알아냅니다.
+2. commit들을 사용해 변경 전 국문 파일과 변경 후 국문 파일을 추출합니다.
+3. 변경 전 국문 파일, 변경 후 국문 파일, 변경 전 다국어 파일 이렇게 3개 파일을 Custom Parser로 파싱하여 구조화합니다.
+4. 변경 전 국문 파일과 변경 후 국문 파일 구조 사이에 차이점을 분석합니다.
+5. 그 차이점들만을 골라 번역 API를 호출해 번역합니다.
+6. 번역된 차이점들을 변경 전 다국어 파일에 적용해, 변경 후 다국어 파일을 생성합니다.
+7. 변경 후 다국어 파일을 역 구조화하여 원래 마크다운 파일로 복원합니다.
+8. 마크다운 파일을 디렉토리에 저장합니다.
+
+### powershell/deploy-docs/v7
+
+ Gitlab 기반 환경에서 문서를 자동으로 빌드하는 Windows Powershell 스크립트입니다.
+
+ 1. deploy-doc: 국문 또는 영문 문서를 상용 배포합니다.
+ 2. deploy-doc-tr: 국, 영문 외 다국어를 상용 배포합니다.
+ 3. deploy-preview: 국문 또는 영문 문서 프리뷰를 배포합니다.
+ 4. remove-preview: 배포한 프리뷰를 삭제합니다.
+ 5. checkout-to-last-tag: 특정 단어를 포함한 모든 tag를 검색한 후, 그 중 가장 최신 tag를 반환하고, 이 tag를 기준으로 새 브랜치로 checkout 합니다.
+
+### process-html, process-markdown
+ 
