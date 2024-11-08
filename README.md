@@ -103,3 +103,111 @@ GPT4-O-mini API를 사용한 번역 도구입니다.
 1. 전체 개발자 가이드를 주기적으로 읽어들이면서 최신 그래프 유지
 2. 개발자 가이드가 변경되면(=페이지 삭제, 추가, 네임드 앵커 이름 변경 등) 변경 사항을 추적하여 엣지(링크) 변동을 감지, 링크 변경을 그래프에서 자동으로 업데이트
 3. 변경된 그래프를 가지고 개발자 가이드에 적용(상대 링크를 자동으로 수정)
+
+
+# Development Journal of Technical Writer Ray
+
+This repository is a temporary public repository created to introduce simple tools developed by Ray Kim for hobby or work-related needs.
+
+Most of the code is written in Python or Windows PowerShell scripts, and there is also some rudimentary Node.js code that is no longer in use.
+
+Due to a hasty transition from a private repository to a public one for disclosure, there are still many areas where the code is not organized. Improvements will be made through future refactoring.
+
+## UnityReleaseToNativeRelease
+
+This code automatically generates Android Native release notes and iOS Native release notes by parsing the developer guide Unity engine release notes. It is currently not in use.
+
+## broken-link-checker/V9
+
+This code checks all relative and absolute links in the developer guide and generates a report on their functionality. It also checks named anchor connections. Currently, this code is not used because the built-in link checker in Material for MkDocs is being utilized.
+
+## change-heading-style
+
+This code was created to change the heading style of the developer guide. It is currently not in use.
+
+## common
+
+Utility functions for document modification and Git/GitLab control.
+
+## concordance_search
+
+This code is an attempt to create a Concordance Search tool provided by translation tools. It reads translation memory in TMX file format, generates an inverted index, performs searches on the Concordance Search UI, and returns results. It is currently not in use.
+
+## files-include-a-term
+
+This code extracts a directory listing of document files containing a specific word. When the root directory is input, it recursively searches in subdirectories. You can also pass a list of directories to exclude from the search (excluded_directories).
+
+## html-to-md
+
+This code converts HTML documents mixed with WordPress legacy formats into Python Markdown documents. It supports a GUI.
+
+## llm/unified
+
+This code automatically translates documents into multiple languages by calling the LLM API. It is currently under continuous development.
+
+### v1 GUI/GUI_Realtime
+
+This code allows you to copy and paste source content, select the API platform and model, and click the translate button, which calls the LLM API to return the translated text in the selected language. It has a GUI for file-based translation, while GUI_Realtime provides real-time translation.
+
+### v6-common
+
+This code implements a general English-Korean translator. There is no GUI, and it currently only supports the LLaMA 3.1 70b model.
+
+### v9
+
+This is a translation tool using the GPT4-O-mini API.
+
+#### `translate.py`
+
+This code performs file-based translation.
+
+#### `translate_md.py`
+
+This code tracks only the changes in a file and translates only the modified content. It was created to reduce LLM translation errors and API call costs.
+
+1. Extracts commits from the Merge Request to identify changes.
+2. Uses the commits to extract the pre-change Korean file and the post-change Korean file.
+3. Parses the pre-change Korean file, post-change Korean file, and pre-change multilingual file using a Custom Parser to structure them.
+4. Analyzes the differences between the structures of the pre-change and post-change Korean files.
+5. Calls the translation API to translate only the identified differences.
+6. Applies the translated differences to the pre-change multilingual file to generate the post-change multilingual file.
+7. Restructures the post-change multilingual file back into the original Markdown file.
+8. Saves the Markdown file in the directory.
+
+### powershell/deploy-docs/v7
+
+This is a Windows PowerShell script that automatically builds documents in a GitLab-based environment.
+
+1. deploy-doc: Deploys Korean or English documents for commercial distribution.
+2. deploy-doc-tr: Deploys multilingual documents (other than Korean and English) for commercial distribution.
+3. deploy-preview: Deploys previews of Korean or English documents.
+4. remove-preview: Deletes the deployed preview.
+5. checkout-to-last-tag: Searches for all tags containing a specific word, returns the latest tag among them, and checks out a new branch based on this tag.
+
+### process-html, process-markdown
+
+These are codes for processing and saving HTML and Markdown files according to my requirements.
+
+### skip-translations/python/v7
+
+This code is designed to handle specific English words so that they are not translated into other languages (like Chinese).
+
+1. Parses the Korean document to extract only the English words.
+   1. Creates and saves a list of English proper nouns for each Korean file. (`createSkipListV7.py`)
+2. Treats the English words within the Korean text as proper nouns and decides not to translate them into other languages.
+3. Finds these words in each English document and wraps them with the `<span class="notransate">` tag. (`applySkipListsFromDirV7.py`)
+4. Implements this functionality in a GUI. (`skipTranslationV7.py`)
+
+### update-links
+
+This code generates a graph where each Markdown page is a node, and links (relative links) to other pages are the edges.
+
+* There can be multiple edges between nodes (pages).
+* Different named anchors are treated as distinct edges.
+
+This code is still under development, and the following features are planned for future addition:
+
+1. Periodically reads the entire developer guide to maintain an up-to-date graph.
+2. Tracks changes in the developer guide (such as page deletions, additions, or named anchor renaming) to detect changes in edges (links) and automatically updates the graph.
+3. Applies the modified graph to the developer guide (automatically modifies relative links).
+
